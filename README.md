@@ -1,6 +1,12 @@
 # erp
 
-## Run
+## Prerequisite
+* Composer version 2.2.12
+* Laravel Framework 5.8.38  
+* mysql
+
+## Run  
+Create a database, and modify "DB_DATABASE", "DB_USERNAME" and "DB_PASSWORD" in.env on directory 'erp'.  
 On directory 'projet_erp', launch :  
 `php artisan migrate`  
 `php artisan serve`  
