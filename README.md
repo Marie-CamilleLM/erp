@@ -7,7 +7,7 @@
 
 ## Run  
 Create a database, and modify "DB_DATABASE", "DB_USERNAME" and "DB_PASSWORD" in.env on directory 'erp'.  
-On directory 'projet_erp', launch :  
+After that, on directory 'projet_erp', launch :  
 `php artisan migrate`  
 `php artisan serve`  
 
