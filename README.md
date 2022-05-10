@@ -11,4 +11,4 @@ On directory 'projet_erp', lauch :
 
 ---------
 
-*If you got any problem, don't hesitate to contact me !*
+If you got any problem, don't hesitate to contact me !
